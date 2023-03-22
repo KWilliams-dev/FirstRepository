@@ -1,4 +1,3 @@
 # FirstRepository
-Hello World repository
-I first leanred to code in Java but I am also learning python.
+Hello World repository.
 This project is my first git experience.
